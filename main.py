@@ -12,7 +12,7 @@ print('''\033[1;34;40m  #####     ####   ##  ##            ##   ##    ##     ## 
 print('')
 print('''\033[1;36;40m1-hacker
 2-programer
--h | help''')
+-h | help (não funcionando)''')
 print('\033[1;37;40m')
 
 var1 = input(">")
